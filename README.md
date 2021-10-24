@@ -21,7 +21,7 @@ When running the code, the following inputs are entered via the user from the co
 
 ## Getting Started
 It's pretty simple, you'll need to get an authenticated client setup first on your Coinbase Pro account so you're "hooked-in" appropriately.
-- The ```authenticated_client.py``` script is where you'll need to put your relevant keys and is a nice & easy way to switch between virtual trading and live trading
+- The ```authenticated_client.py``` script is where you'll need to put your relevant keys and is a nice & easy way to switch between virtual trading and live trading. If you need help on how to do this, please refer to the following repo (https://github.com/danpaquin/coinbasepro-python)
 - Now run ```python coinbase_algo.py```
 
 
